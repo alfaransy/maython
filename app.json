@@ -1,9 +1,9 @@
 {
-  "name": "تليثون العرب",
-  "description": "تنصيب تليثون العرب الاصلي معرف قناتنا @iqthon",
-  "logo": "https://telegra.ph/file/277559574a1e241f5532e.jpg",
+  "name": "مايثون العرب",
+  "description": "تنصيب مايثون العرب الاصلي معرف قناتنا @KAFREN1",
+  "logo": "https://telegra.ph/file/e5dbefbb8d71fb7983c12.jpg",
   "keywords": [    "plugin",    "modular",    "productivity"  ],
-  "repository": "https://github.com/Telethon-helper/Helper/",
+  "repository": "https://github.com/alaraqi/telethon",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -38,7 +38,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتـغيره! ",
-      "value": "Telethon-Ar",
+      "value": "maython",
       "required": false
     }
   },
